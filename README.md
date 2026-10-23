@@ -3,7 +3,7 @@
 An interactive Power BI dashboard analysing the FY2021–FY2025 financial
 statements of Acutaas Chemicals Limited (all figures in ₹ lakhs).
 
-**Built by:** [RAJASUNDER.G]
+**Built by:** RAJASUNDER.G
 
 ## Dashboard preview
 
