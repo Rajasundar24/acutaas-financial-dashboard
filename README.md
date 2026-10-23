@@ -25,7 +25,7 @@ statements of Acutaas Chemicals Limited (all figures in ₹ lakhs).
 
 ## Video demo
 
-[Watch the walkthrough](Acutaas_Dashboard_Demo.mp4)
+[Watch the walkthrough](https://drive.google.com/file/d/1xlrbatA-DdiEmMydixx8CCFSA7pGCWEz/view?usp=sharing)
 
 ## What it shows
 - KPI cards: Revenue, EBITDA, PAT, EBITDA margin, driven by a year slicer
